@@ -27,4 +27,4 @@
 <br>
 
 <h1> Screenshot - </h1>
-<img src="">
+<img src="https://github.com/Magma-Official/Calculator/blob/master/Screenshot%202020-08-20%2001:46:12.png" alt="Screensshot">
