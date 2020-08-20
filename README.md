@@ -9,5 +9,7 @@
 <br>
 <br>
 <h1> How to Use - </h1>
+
+<p> git clone https://github.com/Magma-Official/Calculator.git </p>
 <p> pip install pyfiglet </p>
-<p> git clone  </p>
+<p> cd Calculator </p>
